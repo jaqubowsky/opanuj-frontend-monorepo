@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/jaqubowsky/opanuj-frontend-monorepo/compare/@kubunito/core-components@0.3.0...@kubunito/core-components@0.3.1) (2025-05-05)
+
+**Note:** Version bump only for package @kubunito/core-components
+
 # 0.3.0 (2025-05-05)
 
 ### Features
