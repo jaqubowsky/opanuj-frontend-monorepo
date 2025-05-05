@@ -10,13 +10,19 @@
     "test": "lerna run test",
     "clean": "lerna clean",
     "storybook": "nx storybook @kubunito/core-components",
-    "update:token": "./update_token.sh"
+    "update:token": "./update_token.sh",
+    "prepare": "husky",
+    "commitlint": "commitlint --edit",
+    "commit": "commit"
   },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^19.8.0",
+    "@commitlint/config-conventional": "^19.8.0",
+    "@commitlint/prompt-cli": "^19.8.0",
     "@nx/js": "18.2.4",
     "@nx/storybook": "^18.2.4",
     "@nx/vite": "18.2.4",
@@ -37,6 +43,7 @@
     "@vitest/utils": "^1.5.0",
     "diff-sequences": "^29.6.3",
     "glob": "^11.0.2",
+    "husky": "^9.1.7",
     "lerna": "^8.1.2",
     "lit": "^3.1.2",
     "minimatch": "^10.0.1",
