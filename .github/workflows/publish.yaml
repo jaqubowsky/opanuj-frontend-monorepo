@@ -15,8 +15,8 @@ env:
   AWS_CA_TOKEN: ${{ secrets.AWS_CA_TOKEN }}
   AWS_CA_REGION: eu-central-1
   AWS_CA_DOMAIN: przeprogramowani-ofe
-  AWS_CA_REPOSITORY: przeprogramowani-opanuj-frontend
-  AWS_CA_DOMAIN_OWNER: 438634852085
+  AWS_CA_REPOSITORY: przeprogramowani-ofe
+  AWS_CA_DOMAIN_OWNER: 525499181960
 
 jobs:
   publish:
