@@ -1,18 +1,18 @@
-# @przeprogramowani/core-components
+# @kubunito/core-components
 
-Lit components based on the Shoelace library, customized with `@przeprogramowani/design-tokens`.
+Lit components based on the Shoelace library, customized with `@kubunito/design-tokens`.
 
 ## Installation
 
 ```bash
-npm install @przeprogramowani/core-components
+npm install @kubunito/core-components
 ```
 
 ## Usage
 
 ```js
 <script>
-  import '@przeprogramowani/core-components/dist/components/button/button';
+  import '@kubunito/core-components/dist/components/button/button';
 </script>
 
 <template>
