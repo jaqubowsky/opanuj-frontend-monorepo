@@ -9,7 +9,7 @@
     "build": "lerna run build",
     "test": "lerna run test",
     "clean": "lerna clean",
-    "storybook": "nx storybook @przeprogramowani/core-components",
+    "storybook": "nx storybook @kubunito/core-components",
     "update:token": "./update_token.sh"
   },
   "dependencies": {
@@ -47,9 +47,5 @@
     "typescript": "^5.4.5",
     "vite": "~5.0.0",
     "vitest": "^1.5.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/przeprogramowani/opanuj-frontend-monorepo.git"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@przeprogramowani/core-components",
+  "name": "@kubunito/core-components",
   "version": "0.2.0",
   "description": "",
   "main": "dist/index.js",
@@ -23,7 +23,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@przeprogramowani/design-tokens": "^2.2.0",
+    "@kubunito/design-tokens": "^2.2.0",
     "@shoelace-style/shoelace": "^2.15.0",
     "lit": "^3.1.2"
   },
@@ -37,10 +37,5 @@
     "eslint-plugin-lit": "^1.11.0",
     "lit-analyzer": "^2.0.3",
     "webdriverio": "^8.36.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/przeprogramowani/opanuj-frontend-monorepo.git",
-    "directory": "packages/core-components"
   }
 }
