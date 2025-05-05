@@ -1,6 +1,6 @@
 {
-  "name": "@przeprogramowani/design-tokens",
-  "version": "2.2.0",
+  "name": "@kubunito/design-tokens",
+  "version": "2.3.0",
   "description": "Design tokens collection for Przeprogramowani Design System",
   "license": "MIT",
   "keywords": [
@@ -36,10 +36,5 @@
     "rollup": "^4.14.2",
     "rollup-plugin-dts": "^6.1.0",
     "style-dictionary": "^3.9.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/przeprogramowani/opanuj-frontend-monorepo.git",
-    "directory": "packages/design-tokens"
   }
 }
